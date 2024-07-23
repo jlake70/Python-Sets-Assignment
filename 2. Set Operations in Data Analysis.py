@@ -10,6 +10,19 @@ print(customer_ids)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #def delete_ids(ids):
     #customer_ids = set(ids)
     #customer_ids_list = list(customer_ids)
